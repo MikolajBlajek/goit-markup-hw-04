@@ -61,7 +61,8 @@
  
 .link-style-agency:hover, 
 .link-style-portfolio:hover,
-.link-style-contact:hover {  
+.link-style-contact:hover, 
+.link-contact:hover {  
     color: #2196F3;
 } 
  
