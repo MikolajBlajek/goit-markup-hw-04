@@ -50,7 +50,8 @@
     color: #212121;
 }  
 
-.link-contact { 
+.link-contact-mail-header, 
+.link-contact-phone-header { 
     text-decoration: none;
     color: #757575;
     font-weight: 500;
@@ -62,7 +63,8 @@
 .link-style-agency:hover, 
 .link-style-portfolio:hover,
 .link-style-contact:hover, 
-.link-contact:hover {  
+.link-contact-mail-header:hover, 
+.link-contact-phone-header:hover {  
     color: #2196F3;
 } 
  

@@ -49,11 +49,19 @@ body{
 } 
   
 .contact-link { 
-    justify-content: space-between;    
+    justify-content: space-between;   
+    display: flex;   
+    align-items: center;
 } 
  
-.link-contact{ 
-    padding-right: 20px;
+.link-contact-mail-header{ 
+    padding-right: 20px; 
+}
+
+
+.header-svg-mail, 
+.header-svg-phone{ 
+    padding-right: 10px;
 }
 
 /* kontener z dużym tekstem i przyciskiem*/ 
