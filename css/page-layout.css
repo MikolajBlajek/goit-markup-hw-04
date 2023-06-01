@@ -61,7 +61,8 @@ body{
 
 .header-svg-mail, 
 .header-svg-phone{ 
-    padding-right: 10px;
+    margin-right: 10px; 
+
 }
 
 /* kontener z dużym tekstem i przyciskiem*/ 
